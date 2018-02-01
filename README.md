@@ -1,0 +1,2 @@
+# SQL-chinook
+SQL exercises
